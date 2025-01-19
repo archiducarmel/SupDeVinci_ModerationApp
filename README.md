@@ -6,7 +6,7 @@ Voici un **README complet et pédagogique**, agrémenté d'émojis et d'une stru
 *Analysez et modérez vos contenus multimédias avec simplicité et efficacité !*
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x300?text=Content+Moderator+Pro" alt="Banner" style="border-radius: 10px;">
+  <img src="https://github.com/archiducarmel/SupDeVinci_Developpement/releases/download/ia_ml_aws/st6.jpg">
 </div>
 
 ---
