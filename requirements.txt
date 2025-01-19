@@ -1,8 +1,8 @@
-boto3==1.26.142
-botocore==1.29.142
-streamlit==1.30.0
-nltk==3.8.1
-opencv-python==4.8.0.74
-Pillow==9.5.0
-python-dotenv==1.0.0
-matplotlib==3.7.1
+boto3
+botocore
+streamlit
+nltk
+opencv-python
+Pillow
+python-dotenv
+matplotlib
